@@ -7,10 +7,12 @@ I'm a Blockchain Developer based in Brasilia, Brazil.
 - 🖤 Interests: sports, travel, movies and the new special of bo burnham
 - 😄 Pronouns: He / Him
 
+
 ### 🌎 Find me around the web
 
 - 💼 I'm on [LinkedIn](https://www.linkedin.com/in/vitor-duarte-0405b5107/)
 - 🎡 Check out my personal [website](vitorduarte.github.io/)
+
 
 ### 👨🏾‍💻 My Personal Projects
 
@@ -22,6 +24,7 @@ Twitter bot that generates Yeezy's colorways every hour.
 #### 💜 [Bambata Tech](https://github.com/BambataTech/)
 
 Twitch channel where I develop new things and be in touch with tech community.
+
 
 ### ⚒ Languages and Tools
 
