@@ -14,12 +14,12 @@ I'm a Blockchain Developer based in Brasilia, Brazil.
 
 ### 👨🏾‍💻 My Personal Projects
 
-- 🎨 [Color Yeezy](https://twitter.com/coloryeezy)
+#### 🎨 [Color Yeezy](https://twitter.com/coloryeezy)
 
 Twitter bot that generates Yeezy's colorways every hour.
 💽[Code](https://github.com/vitorduarte/coloryeezy)
    
-- 💜 [Bambata Tech](https://github.com/BambataTech/)
+#### 💜 [Bambata Tech](https://github.com/BambataTech/)
 
 Twitch channel where I develop new things and be in touch with tech community.
 
