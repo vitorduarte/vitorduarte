@@ -11,7 +11,7 @@ I'm a Blockchain Developer based in Brasilia, Brazil.
 ### 🌎 Find me around the web
 
 - 💼 I'm on [LinkedIn](https://www.linkedin.com/in/vitor-duarte-0405b5107/)
-- 🎡 Check out my personal [website](vitorduarte.github.io/)
+- 🎡 Check out my personal [website](https://vitorduarte.github.io/)
 
 
 ### 👨🏾‍💻 My Personal Projects
