@@ -2,7 +2,7 @@
 I'm a Blockchain Developer based in Brasilia, Brazil.
 
 
-- 🔭 I’m currently working full-time at [Blockforce](https://blockforce.in)
+- 🔭 I’m currently working full-time at [BairesDev](https://www.bairesdev.com/)@[Shutterstock](https://www.shutterstock.com/)
 - 💬 Ask me about [Hyperledger Fabric](https://github.com/hyperledger/fabric) 
 - 🖤 Interests: sports, travel, movies and the new special of bo burnham
 - 😄 Pronouns: He / Him
