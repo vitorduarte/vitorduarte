@@ -1,9 +1,9 @@
 ## Hi, I'm Vitor Duarte 🤙🏾
-I'm a Blockchain Developer based in Brasilia, Brazil.
+I'm a Software Developer based in Brasilia, Brazil.
 
 
 - 🔭 I’m currently working full-time at [BairesDev](https://www.bairesdev.com/)@[Shutterstock](https://www.shutterstock.com/)
-- 🖤 Interests: sports, travel, movies and the new special of bo burnham
+- 🖤 Interests: sports, travel, movies and the new special of Jerrod Carmichael
 - 😄 Pronouns: He / Him
 
 
