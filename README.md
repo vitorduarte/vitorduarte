@@ -2,8 +2,8 @@
 I'm a Software Developer based in Brasilia, Brazil.
 
 
-- 🔭 I’m currently working full-time at [BairesDev](https://www.bairesdev.com/)@[Shutterstock](https://www.shutterstock.com/)
-- 🖤 Interests: sports, travel, movies and the new special of Jerrod Carmichael
+- 🔭 I’m currently working full-time at [Globant](https://www.globant.com/)
+- 🖤 Interests: sports, travel, movies and every TV Show that has Nathan Fielder involved
 - 😄 Pronouns: He / Him
 
 
