@@ -2,7 +2,7 @@
 I'm a Software Developer based in Brasilia, Brazil.
 
 
-- 🔭 I’m currently working full-time at [Globant](https://www.globant.com/)
+- 🔭 I’m currently working full-time at [X-Team]([https://www.globant.com/](https://x-team.com/))
 - 🖤 Interests: sports, travel, movies and every TV Show that has Nathan Fielder involved
 - 😄 Pronouns: He / Him
 
