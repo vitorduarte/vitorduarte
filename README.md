@@ -1,5 +1,5 @@
 ## Hi, I'm Vitor Duarte 🤙🏾
-I'm a Software Developer based in Brasilia, Brazil.
+I'm a Software Developer based in São Paulo, Brazil.
 
 
 - 🔭 I’m currently working full-time at [X-Team](https://x-team.com/)
